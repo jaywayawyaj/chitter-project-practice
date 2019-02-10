@@ -1,7 +1,16 @@
 {
   "RSpec": {
     "coverage": {
+      "/Users/jayway/makers/projects/week-8/techtestpractice/chitter-project-practice/spec/features/homepage_spec.rb": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
+        null
+      ]
     },
-    "timestamp": 1549810280
+    "timestamp": 1549810897
   }
 }
