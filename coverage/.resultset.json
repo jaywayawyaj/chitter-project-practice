@@ -9,8 +9,33 @@
         1,
         null,
         null
+      ],
+      "/Users/jayway/makers/projects/week-8/techtestpractice/chitter-project-practice/spec/units/peep_spec.rb": [
+        1,
+        null,
+        1,
+        null,
+        2,
+        null,
+        1,
+        1,
+        null,
+        null
+      ],
+      "/Users/jayway/makers/projects/week-8/techtestpractice/chitter-project-practice/lib/peep.rb": [
+        1,
+        null,
+        1,
+        null,
+        1,
+        null,
+        1,
+        1,
+        null,
+        null,
+        null
       ]
     },
-    "timestamp": 1549810897
+    "timestamp": 1549812365
   }
 }
